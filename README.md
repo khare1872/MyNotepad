@@ -20,7 +20,7 @@ After installations are complete run command "npm start" for api folder and "yar
 
 ### Backend server hosted on localhost:5000
 
-###The project is hosted on localhost:3000
+### The project is hosted on localhost:3000
 
 <img src = "https://github.com/khare1872/MyNotepad/blob/main/WhatsApp%20Image%202021-09-08%20at%2020.33.03.jpeg">
 
