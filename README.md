@@ -25,8 +25,20 @@ After installations are complete run command "npm start" for api folder and "yar
 <img src = "https://github.com/khare1872/MyNotepad/blob/main/WhatsApp%20Image%202021-09-08%20at%2020.33.03.jpeg">
 
 
-<img src = "https://github.com/khare1872/MyNotepad/blob/main/WhatsApp%20Image%202021-09-08%20at%2020.33.03.jpeg">
 
 
-<img src = "https://github.com/khare1872/MyNotepad/blob/main/WhatsApp%20Image%202021-09-08%20at%2020.33.03.jpeg">
+
+
+
+
+<img src = "https://github.com/khare1872/MyNotepad/blob/main/WhatsApp%20Image%202021-09-08%20at%2020.33.25.jpeg">
+
+
+
+
+
+
+
+
+<img src = "https://github.com/khare1872/MyNotepad/blob/main/WhatsApp%20Image%202021-09-08%20at%2020.33.53.jpeg">
 
