@@ -22,5 +22,5 @@ After installations are complete run command "npm start" for api folder and "yar
 
 ###The project is hosted on localhost:3000
 
-
+<img src = "">
 
