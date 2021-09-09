@@ -22,6 +22,7 @@ After installations are complete run command "npm start" for api folder and "yar
 
 ### The project is hosted on localhost:3000
 
+## link to website https://sk-notepad.herokuapp.com/
 <img src = "https://github.com/khare1872/MyNotepad/blob/main/WhatsApp%20Image%202021-09-08%20at%2020.33.03.jpeg">
 
 
